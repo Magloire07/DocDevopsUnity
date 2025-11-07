@@ -38,7 +38,7 @@ afterBody: [
     provider: 'giscus',
     options: {
       // from data-repo
-      repo: 'jackyzha0/quartz',
+      repo: 'Magloire07/DocDevopsUnity',
       // from data-repo-id
       repoId: 'MDEwOlJlcG9zaXRvcnkzODcyMTMyMDg',
       // from data-category

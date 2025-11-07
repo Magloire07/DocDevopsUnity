@@ -77,19 +77,19 @@ Langage:
     expect(response.text).toBe('DevOps Labs!');
     ```
     
-    ![Screenshot from 2025-11-01 00-33-19.png](PROJET%20DEVOPS/Screenshot_from_2025-11-01_00-33-19.png)
+    ![Screenshot from 2025-11-01 00-33-19.png](images/Screenshot_from_2025-11-01_00-33-19.png)
     
     Les trois rôles IAM  pour le CD Github vers AWS  (tests, plan apply)
     
-    ![Screenshot from 2025-11-04 14-42-24.png](PROJET%20DEVOPS/Screenshot_from_2025-11-04_14-42-24.png)
+    ![Screenshot from 2025-11-04 14-42-24.png](images/Screenshot_from_2025-11-04_14-42-24.png)
     
     Création de Bucket S3 (kokous-bucket)
     
-    ![Screenshot from 2025-11-04 14-41-33.png](PROJET%20DEVOPS/Screenshot_from_2025-11-04_14-41-33.png)
+    ![Screenshot from 2025-11-04 14-41-33.png](images/Screenshot_from_2025-11-04_14-41-33.png)
     
     Succès des tests finaux du pipeline CI/CD après merge avec main
     
-    ![Screenshot from 2025-11-02 20-03-18.png](PROJET%20DEVOPS/Screenshot_from_2025-11-02_20-03-18.png)
+    ![Screenshot from 2025-11-02 20-03-18.png](images/Screenshot_from_2025-11-02_20-03-18.png)
     
     Lien vers le repos
     

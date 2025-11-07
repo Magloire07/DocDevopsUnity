@@ -22,7 +22,7 @@ git remote -v
 git remote set-url origin REMOTE-URL
 
 # if you don't have upstream as a remote, add it so updates work
-git remote add upstream https://github.com/jackyzha0/quartz.git
+git remote add upstream https://github.com/Magloire07/DocDevopsUnity.git
 ```
 
 Then, you can sync the content to upload it to your repository. This is a helper command that will do the initial push of your content to your repository.
